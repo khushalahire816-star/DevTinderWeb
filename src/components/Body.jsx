@@ -7,9 +7,9 @@ const Body = () => {
     <div>
       <NavBar></NavBar>
       <Outlet />
-      <Footer/>
+      <Footer />
     </div>
-  )
+  );
 };
 
 export default Body;
